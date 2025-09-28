@@ -4,10 +4,6 @@
   🚀 Full Stack Developer<br>
 </p>
 
----
-
----
-
 ### 🧰 My Tech Stack
 
 <div align="left">
