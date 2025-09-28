@@ -6,20 +6,6 @@
 
 ---
 
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🧰 My Tech Stack
