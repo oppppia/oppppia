@@ -22,12 +22,3 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
-
----
-
-### ⏳ Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oppppia&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppppia&layout=compact&theme=dark" height="150" />
-</p>
