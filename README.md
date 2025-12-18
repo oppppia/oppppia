@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Dmitriy</h1>
 
 <p align="center">
-  🚀 Web & software developerr<br>
+  🚀 Web & software developer<br>
 </p>
 
 ### </> Web tech stack
